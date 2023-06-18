@@ -134,7 +134,7 @@ Bio（个人简介），<div>
 一对一关系：一个用户对应一个个人资料。<div>
   
   ## 3.3 逻辑结构设计<div>
-   ###3.1.3 逻辑关系图<div>
+   ### 3.1.3 逻辑关系图<div>
    根据整个系统的特性，可以设计出如下数据库逻辑关系图：<div>
   
 ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/15fa68c3-2e9d-4c1e-994c-ce4d3c874819)
