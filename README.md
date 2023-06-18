@@ -1,4 +1,3 @@
-![E-R图 drawio](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d3e6803e-47a1-41c6-a815-d1e9d9ea759e)# CourseDesignOfDatabase
 # 第1章 设计背景 <div>
 随着互联网的普及和社交媒体的兴起，社交平台已成为人们分享信息、建立社交关系和交流互动的重要平台。为了有效地管理用户、帖子、评论、点赞等数据，并提供稳定和高效的用户体验，设计一个功能强大的数据库管理系统是至关重要的。<div>
   
