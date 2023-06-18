@@ -1,4 +1,4 @@
-# CourseDesignOfDatabase
+![E-R图 drawio](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d3e6803e-47a1-41c6-a815-d1e9d9ea759e)# CourseDesignOfDatabase
 # 第1章 设计背景 <div>
 随着互联网的普及和社交媒体的兴起，社交平台已成为人们分享信息、建立社交关系和交流互动的重要平台。为了有效地管理用户、帖子、评论、点赞等数据，并提供稳定和高效的用户体验，设计一个功能强大的数据库管理系统是至关重要的。<div>
   
@@ -228,49 +228,49 @@ CREATE TABLE Profile (<div>
 用户功能（注册、注销、更新信息、查询）：<div>
 
 ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/2ddc9e15-a073-401e-a730-cb1007f16a82)
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/f7a3e50a-f5a2-45e1-8b66-2fc23a93a2c8)
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/f7a3e50a-f5a2-45e1-8b66-2fc23a93a2c8)<div>
 
-![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/5b8746b8-a939-44b4-b9c3-2839cedc2f30)
-  好友功能（添加、删除、更新、查找）：<div>
+![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/5b8746b8-a939-44b4-b9c3-2839cedc2f30)<div>
+好友功能（添加、删除、更新、查找）：<div>
   ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/8a7fb61a-ab66-4431-b9d5-c66d2237029f)
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/5960e8b0-7654-4f82-b388-2ef63183ef58)
-  信息的各类操作（发送、删除、查找）：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/5960e8b0-7654-4f82-b388-2ef63183ef58)<div>
+信息的各类操作（发送、删除、查找）：<div>
   ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/3642a39d-5280-411a-ac12-f2be9f52ba4a)
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/13b4f22f-5d3c-4ff6-8838-b0e74c99e6d8)
-  个人资料更新功能：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/dca9cd9d-808a-4805-8a5c-17c26a49dba2)
-  帖子操作（发表、删除、更新、查询）：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/13b4f22f-5d3c-4ff6-8838-b0e74c99e6d8)<div>
+个人资料更新功能：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/dca9cd9d-808a-4805-8a5c-17c26a49dba2)<div>
+帖子操作（发表、删除、更新、查询）：<div>
   ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/b3a8e99e-8d85-430b-b0ca-2bad5e15a61d)
-![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/c36af77c-bae0-4593-928d-8f30867ea888)
+![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/c36af77c-bae0-4593-928d-8f30867ea888)<div>
 
   
 #第5章 系统测试<div>
  ## 5.1注册、登录功能测试：<div>
  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/08da92ce-468f-419e-b45f-69bd4e7f0c62)
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/077d5e6a-6c75-4ae8-ba60-1665a15c8725)
-  可以看见数据库里已经更新用户信息：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/a3b9536f-fb75-489f-8936-e9b53576aae5)
-  注册已完成，已经可以登录：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/f2d1fd75-47a5-445c-8364-b87f97de5abc)
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/077d5e6a-6c75-4ae8-ba60-1665a15c8725)<div>
+可以看见数据库里已经更新用户信息：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/a3b9536f-fb75-489f-8936-e9b53576aae5)<div>
+注册已完成，已经可以登录：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/f2d1fd75-47a5-445c-8364-b87f97de5abc)<div>
  ## 5.2 好友功能、消息功能、帖子功能测试<div>
-  在好友界面添加好友：<div>
-![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/997a6157-a7a4-4f68-9ac4-7ac7d91e3879)
+ 在好友界面添加好友：<div>
+![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/997a6157-a7a4-4f68-9ac4-7ac7d91e3879)<div>
 可以看见数据库里好友状态更新：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/dd90af30-35a2-43bc-972a-3788021ca6f0)
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/dd90af30-35a2-43bc-972a-3788021ca6f0)<div>
 在好友界面向好友发消息：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/8cda2187-be04-46cf-8988-a35d00a21d74)
-  可以看见数据库里消息表更新：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/0d7196cc-2b0a-4605-9700-d6174ee88133)
-  打开帖子界面，发一个帖子，可以看见好友和自己发的帖子：<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/56cd6ad1-cf6e-4f07-bc67-31c0eda8fbac)
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/8cda2187-be04-46cf-8988-a35d00a21d74)<div>
+可以看见数据库里消息表更新：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/0d7196cc-2b0a-4605-9700-d6174ee88133)<div>
+打开帖子界面，发一个帖子，可以看见好友和自己发的帖子：<div>
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/56cd6ad1-cf6e-4f07-bc67-31c0eda8fbac)<div>
 数据库里记录了帖子的各种信息<div>
-  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/180d1597-4e90-4b2c-a115-bdab5e31651b)
-  在帖子界面选一个帖子进行点赞、评论操作：<div>
-![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/07e7d354-a93d-47b0-8aff-ff8d93df679e)
-![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d84dceb7-b5a4-47ef-a3dd-6a36c943d657)
+  ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/180d1597-4e90-4b2c-a115-bdab5e31651b)<div>
+在帖子界面选一个帖子进行点赞、评论操作：<div>
+![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/07e7d354-a93d-47b0-8aff-ff8d93df679e)<div>
+![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d84dceb7-b5a4-47ef-a3dd-6a36c943d657)<div>
 可以看见数据库里点赞表、评论表里更新了信息：<div>
   ![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d4e24e74-16df-4e35-b7ca-9a263453bce3)
-![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d3554dc9-fe61-47a5-b4ac-5e44dcd84cfc)
+![image](https://github.com/2249899756/CourseDesignOfDatabase/assets/94681217/d3554dc9-fe61-47a5-b4ac-5e44dcd84cfc)<div>
  ## 5.3 测试结论<div>
 经过各项功能测试，社交平台数据管理系统各项功能都正常，能够达到预期效果。但是，这个数据库管理系统还存在一些问题：<div>
 1、在一些问题的处理和考虑的方面存在很大的缺陷和漏洞，希望在进一步的学习中能更好处理好相关问题。这次课题设计不能堪称完美，甚至来说还很不健全。<div>
